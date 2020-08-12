@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Where To Go Now?
+## Notes: Display the appropriate regions for your level range with a chat command
+## Author: Gledyson Ferreira dos Santos
+## Version: 0.1
+
+Main.lua
