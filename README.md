@@ -1,12 +1,12 @@
 # Where To Go? (v. 0.1)
 
-This dead simple addon that tells you what regions are within your level range. Type in chat:
+This dead simple addon tells you what regions are within your level range. Type in chat:
 
 `/areas`
 for all the appropriate regions for your __current__ level.
 
 `/areas level`
-for all the regions for the provided _level_.
+for all the regions for the provided _level_, where _level_ is a number between 1 and 80.
 
 ## Example:
 `/areas 80`
